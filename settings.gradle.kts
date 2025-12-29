@@ -29,6 +29,7 @@ dependencyResolutionManagement {
     }
 }
 include(":kotlin-tuple")
+include(":context-parameter")
 include(":sample:composeApp")
 include(":sample:terminalApp")
 
