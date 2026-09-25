@@ -1,5 +1,11 @@
 # kotlin-tuple
 
+> [!CAUTION]
+> This library is deprecated.
+> It is recommended that you use TBSten/skills `kotlin-tuple` skill to generate tuple code for each project.
+> 
+> https://github.com/TBSten/skills/blob/main/skills/kotlin-tuple.md
+
 Kotlin Multiplatform Library
 
 ### Run Sample App
